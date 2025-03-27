@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arthur de lavor de sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur de lavor de sousa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arthur-de-lavor-de-sousa-96a04426a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur de lavor de sousa" height="30" width="40" /></a>
 <a href="https://instagram.com/arthurlavs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurlavs" height="30" width="40" /></a>
 <a href="https://discord.gg/arthurcomaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arthurcomaga" height="30" width="40" /></a>
 </p>
