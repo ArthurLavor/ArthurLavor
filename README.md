@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Arthur De Lavor De Sousa</h1>
 <h3 align="center">Gosto de desafios e de criar projetos</h3>
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
-
-- 👯 Também faço algus projetos com amigos **Bot de whastapp**
+- 🌱 Atualmente estou aprendendo **JavaScript, Java, React e SQL**
 
 - 💬 Me pergunte sobre **Html, Css, JavaScript e Python, Java e SQL**
 
