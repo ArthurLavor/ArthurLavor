@@ -2,7 +2,7 @@
 <h3 align="center">Gosto de desafios, projetos e inovações</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="200" alt="Coding GIF" />
 </p>
 
 ---
