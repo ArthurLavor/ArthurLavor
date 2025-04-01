@@ -1,11 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Arthur De Lavor De Sousa!</h1>
 <h3 align="center">Gosto de desafios, projetos e inovações</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Coding GIF" />
+</p>
+
 ---
 
 ## Sobre Mim
 
-Sou apaixonado por desafios e por criar projetos inovadores. Atualmente, estou expandindo meus conhecimentos em tecnologias como **JavaScript, Java, React e SQL**. Além disso, possuo experiência com AWS, Node, Spring Boot, Postman, Python, HTML, CSS e Angular.
+Sou apaixonado por desafios e por criar soluções inovadoras que transformam ideias em realidade. Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Java, React e SQL**, além de acumular experiências com **AWS, Node, Spring Boot, Postman, Python, HTML, CSS e Angular**. Acredito que o aprendizado contínuo é o segredo para a evolução!
 
 ---
 
@@ -29,25 +33,40 @@ Sou apaixonado por desafios e por criar projetos inovadores. Atualmente, estou e
 
 ## Projetos
 
-Aqui estão alguns dos meus projetos mais importantes que demonstram minhas habilidades:
+Aqui estão alguns dos meus projetos mais relevantes:
 
-- **Projeto 1: Painel de consultas desenvolvido em Java, integrado ao banco de dados MySQL para recuperação e exibição de informações de forma eficiente. O sistema foi projetado para oferecer uma interface intuitiva e funcional, permitindo acesso rápido e organizado aos dados armazenados. – [Ver repositório](https://github.com/ArthurLavor/PainelCovid)
-- **Projeto 2: Este projeto foi desenvolvido com base em um desafio técnico de entrevista do Itaú. Utiliza Java como linguagem principal, Spring Boot como framework para simplificar o desenvolvimento e configurações, e segue os princípios de uma REST API, oferecendo endpoints organizados para comunicação eficiente entre cliente e servidor. – [Ver repositório](https://github.com/ArthurLavor/spring.boot.desafio-itau)
-- *Adicione quantos quiser, detalhando links, imagens ou GIFs mostrando a interface ou funcionamento dos projetos.*
+- **Projeto 1: Painel de Consultas**  
+  Desenvolvido em **Java** com integração ao **MySQL** para recuperação e exibição organizada dos dados.  
+  [Ver repositório](https://github.com/ArthurLavor/PainelCovid)
+
+- **Projeto 2: Desafio Técnico Itaú**  
+  Solução baseada em um desafio de entrevista, utilizando **Java** e **Spring Boot** para criar uma REST API organizada e eficiente.  
+  [Ver repositório](https://github.com/ArthurLavor/spring.boot.desafio-itau)
+
+<!-- Adicione mais projetos conforme necessário -->
 
 ---
 
 ## O Que Estou Fazendo
 
 - Atualmente, estou focado em aprimorar meus conhecimentos em **JavaScript, Java, React e SQL**.
-- Continuo explorando novas tecnologias e frameworks para expandir meu repertório técnico.
+- Exploro novas tecnologias e frameworks para manter meu repertório técnico sempre atualizado e inovador.
 
 ---
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLavor&layout=compact&cache_seconds=3600" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurLavor&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLavor&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+## Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthurLavor&theme=radical" alt="Troféus do GitHub" />
 </div>
 
 ---
@@ -56,7 +75,7 @@ Aqui estão alguns dos meus projetos mais importantes que demonstram minhas habi
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-de-lavor-de-sousa-96a04426a/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/arthurlavs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -66,4 +85,6 @@ Aqui estão alguns dos meus projetos mais importantes que demonstram minhas habi
   </a>
 </div>
 
-**E-mail:** [arthurdelavor01@gmail.com](mailto:arthurdelavor01@gmail.com)
+<p align="center">
+  <strong>E-mail:</strong> <a href="mailto:arthurdelavor01@gmail.com">arthurdelavor01@gmail.com</a>
+</p>
