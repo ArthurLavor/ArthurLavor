@@ -9,7 +9,7 @@
 
 ## Sobre Mim
 
-Sou apaixonado por desafios e por criar soluções inovadoras que transformam ideias em realidade. Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Java, React e SQL**, além de acumular experiências com **AWS, Node, Spring Boot, Postman, Python, HTML, CSS e Angular**. Acredito que o aprendizado contínuo é o segredo para a evolução!
+Sou apaixonado por desafios e por criar soluções inovadoras que transformam ideias em realidade. Atualmente, estou aprofundando meus conhecimentos em JavaScript, Java, React e SQL, além de acumular experiências com AWS, Node, Spring Boot, Postman, Python, HTML, CSS e Angular. Acredito que o aprendizado contínuo é o segredo para a evolução!
 
 ---
 
@@ -33,14 +33,14 @@ Sou apaixonado por desafios e por criar soluções inovadoras que transformam id
 
 ## Projetos
 
-Aqui estão alguns dos meus projetos mais relevantes:
+Confira abaixo alguns dos meus projetos mais relevantes. Para visualizar os projetos mais recentes, acesse também os repositórios fixados no meu GitHub.
 
 - **Projeto 1: Painel de Consultas**  
-  Desenvolvido em **Java** com integração ao **MySQL** para recuperação e exibição organizada dos dados.  
+  Desenvolvido em Java com integração ao MySQL para recuperação e exibição organizada dos dados.  
   [Ver repositório](https://github.com/ArthurLavor/PainelCovid)
 
 - **Projeto 2: Desafio Técnico Itaú**  
-  Solução baseada em um desafio de entrevista, utilizando **Java** e **Spring Boot** para criar uma REST API organizada e eficiente.  
+  Solução baseada em um desafio de entrevista, utilizando Java e Spring Boot para criar uma REST API organizada e eficiente.  
   [Ver repositório](https://github.com/ArthurLavor/spring.boot.desafio-itau)
 
 <!-- Adicione mais projetos conforme necessário -->
@@ -49,7 +49,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 ## O Que Estou Fazendo
 
-- Atualmente, estou focado em aprimorar meus conhecimentos em **JavaScript, Java, React e SQL**.
+- Atualmente, estou focado em aprimorar meus conhecimentos em JavaScript, Java, React e SQL.
 - Exploro novas tecnologias e frameworks para manter meu repertório técnico sempre atualizado e inovador.
 
 ---
@@ -57,8 +57,8 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurLavor&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLavor&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurLavor&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLavor&layout=compact&theme=radical&cache_seconds=0" alt="Top Langs" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ## Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthurLavor&theme=radical" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthurLavor&theme=radical&cache_seconds=0" alt="Troféus do GitHub" />
 </div>
 
 ---
