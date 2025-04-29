@@ -39,9 +39,9 @@ Confira abaixo alguns dos meus projetos mais relevantes. Para visualizar os proj
   Desenvolvido em Java com integração ao MySQL para recuperação e exibição organizada dos dados.  
   [Ver repositório](https://github.com/ArthurLavor/PainelCovid)
 
-- **Projeto 2: Desafio Técnico Itaú**  
-  Solução baseada em um desafio de entrevista, utilizando Java e Spring Boot para criar uma REST API organizada e eficiente.  
-  [Ver repositório](https://github.com/ArthurLavor/spring.boot.desafio-itau)
+- **Projeto 2: Webcarros, loja de carros**  
+  Loja de carros feita em React Js, TypeScript usando o banco de dados Firebase.  
+  [Ver repositório](https://github.com/ArthurLavor/WebCarros)
 
 <!-- Adicione mais projetos conforme necessário -->
 
